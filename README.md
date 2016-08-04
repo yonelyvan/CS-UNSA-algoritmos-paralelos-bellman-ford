@@ -6,7 +6,7 @@
 
 
 # 	INTEGRANTES: 
-Yonel Mamani
+Yonel Mamani, 
 Jorge Macetas
 
 #	COMPILACION:	
