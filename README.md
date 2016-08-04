@@ -9,8 +9,8 @@
 Yonel Mamani, 
 Jorge Macetas
 
-#	COMPILACION:	
+#	COMPILACIÓN:	
 gcc bellman-ford.c -o bellman-ford -fopenmp -g -Wall 
-# EJECUCION:
+# EJECUCIÓN:
 ./bellman-ford 4
 
