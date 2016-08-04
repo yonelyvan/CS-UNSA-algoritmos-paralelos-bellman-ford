@@ -6,9 +6,9 @@
 
 
 # 	INTEGRANTES: 
-  	Yonel Mamani
-		Jorge Macetas
+Yonel Mamani
+Jorge Macetas
 #	COMPILACION Y EJECUCION:	
-  gcc bellman-ford.c -o bellman-ford -fopenmp -g -Wall 
-	./bellman-ford 4
+gcc bellman-ford.c -o bellman-ford -fopenmp -g -Wall 
+./bellman-ford 4
 
